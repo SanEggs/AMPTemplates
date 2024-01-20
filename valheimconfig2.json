@@ -61,7 +61,6 @@
     },
     "DefaultValue": ""
   },
-  ,
   {
     "DisplayName": "Enable Extended Logs",
     "Description": "When enabled, non-AMP Valheim logs will be created. These logs are verbose and can be very large. You will likely run out of disk space when enabled if you do not actively manage the logs. See logs dir",
